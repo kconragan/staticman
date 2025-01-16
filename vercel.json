@@ -15,6 +15,6 @@
   "env": {
     "PORT": "3000",
     "NODE_ENV": "production",
-    "STATICMAN_ENCRYPTION_KEY": "$STATICMAN_ENCRYPTION_KEY"
+    "STATICMAN_ENCRYPTION_KEY": "WQrP6I+wJV5rm4GpAQSIdJeNk/6GGif4Z3LByZ+eB1g="
   }
 }
